@@ -23,6 +23,8 @@ const App = () => {
 
   useEffect (() => {
     apiCall()
+
+    
   }, [])
 
   return (
